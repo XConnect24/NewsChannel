@@ -3,14 +3,9 @@ THIS SOFTWARE IS (C) zurgeg 2021
 
 The ZPL is a license designed for use in libraries that want to support open-source software.
 
-1.a: Requirements
-By agreeing to this license:
-You/Your Organization must not have involvement in closed-source software.
-You/Your Organization must not have involvment in censorship
-
-1.b: Software Information
+1: Software Information
 XConnect24 News Channel
-Rules for team members (this includes me :troll~1:):
+Dev Ethics:
 {1} Stuff that happens outside the server do not and should not affect stuff in this server.
 {2} Staff should take criticism and work upon it instead of silencing the criticism (unless it's just blindly hating on the server).
 {3} Demotions and moderative actions should be thought about and talked about with the entire moderation team before taking action.
@@ -52,4 +47,4 @@ Name:: [REDACTED]
 
 3.b: Disclosure of modifications:
 Please list any modifications below, failing do to so is a violation of your license:
-Added Section 1.c
+Remove 1.a, and rename 1.b to 1
